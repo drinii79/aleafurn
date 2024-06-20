@@ -1,0 +1,38 @@
+body{
+    padding: 20px;
+    font-family: "Karla", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+ }
+ #navbar{
+     display: flex   ;
+     justify-content: space-between;
+     align-items: center;
+     padding-left: 6em;
+ }
+ #right-nav{
+     width: 20%;
+     display: flex;
+   
+ }
+ a{
+    color: black;
+    text-decoration: none;
+ }
+ .nav{
+    color: black;
+    font-size: larger;
+}
+#blue{
+    background-color:#043B78 ;
+    width: 27px;
+    height: 27px;
+    border-radius: 100%;
+}
+#purple{
+    background-color:#9416A8 ;
+    width: 27px;
+    height: 27px;
+    border-radius: 100%;
+}
